@@ -1,4 +1,4 @@
-# Run Buddy 
+# Run Buddy, Inc
 
 ## Purpose 
 A website that offers fitnes training services.
@@ -13,3 +13,5 @@ https://github.com/alanhernandezvillanueva/run-buddy
 
 ## Contribution 
 Made with ♡ by Alan Hernandez 
+
+### ©2019 Run Buddy, Inc
