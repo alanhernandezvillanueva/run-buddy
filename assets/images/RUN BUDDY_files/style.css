@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 :root {
-    --primary-color: #fce138;
-    --secondary-color: #024e76;
-    --tertiary-color: #39a6b2;
+    --primary-color: #beff69;
+    --secondary-color: #FF69B4;
+    --tertiary-color: #d38ef3;
   }
 body {
     color: var(--tertiary-color);
